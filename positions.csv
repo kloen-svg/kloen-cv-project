@@ -1,0 +1,10 @@
+section,in_resume,title,institution,loc,start,end,description_1,description_2,description_3
+education,TRUE,MS Program Evaluation and Data Science,Arizona State University,"Phoenix, AZ",2025,,"Currently enrolled, anticipated completion date Fall 2026",NA,NA
+education,TRUE,BS Astronomy and Planetary Science (Sustainability Minor),Arizona State University,"Phoenix, AZ",2021,2024,Summa Cum Laude,NA,NA
+education,TRUE,AAS Early Childhood Education,Central Arizona College,"Coolidge, AZ",2011,2016,,,
+education,TRUE,AS General Studies,Central Arizona College,"Coolidge, AZ",2011,2016,,,
+industry_positions,TRUE,Software Engineering Intern,Fiserv Inc,"Phoenix, AZ",2020,,Real time call center analysis,NA,NA
+industry_positions,TRUE,Engineering Intern - User Experience,Fiserv Inc,"Phoenix, AZ",2019,2020,Call center supervisory work,NA,NA
+industry_positions,TRUE,New Hire Training Supervisor,Majorel,"Chandler, AZ",2018,2019,Training new hires and onboarding for associates for Ally Bank campaign.,NA,NA
+industry_positions,FALSE,Secure Message Associate,Majorel,"Chandler, AZ",2018,2018,"Customer support via secure messaging portal, including IRA cross training",First dedicated secure message associate on site,NA
+industry_positions,FALSE,Inbound Associate,Majorel,"Chandler, AZ",2017,2018,Ally Bank Campaign,NA,NA
