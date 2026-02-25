@@ -1,6 +1,6 @@
 ---
-title: Nick Strayer's Resume"
-author: Nick Strayer
+title: Kristina Loen's Resume"
+author: Kristina Loen
 date: "`r Sys.Date()`"
 output:
   pagedown::html_resume:
@@ -54,11 +54,11 @@ Contact {#contact}
 
 
 
-- <i class="fa fa-envelope"></i> nick.strayer@gmail.com
-- <i class="fa fa-twitter"></i> NicholasStrayer
-- <i class="fa fa-github"></i> github.com/nstrayer
-- <i class="fa fa-link"></i> [nickstrayer.me](http://nickstrayer.me/)
-- <i class="fa fa-phone"></i> (734) 645-0110
+- <i class="fa fa-envelope"></i> kloen@asu.edu
+- <i class="fa fa-twitter"></i> Kristina Loen
+- <i class="fa fa-github"></i> github.com/kloen-svg
+
+
 
 
 
@@ -85,12 +85,8 @@ build_skill_bars(skills)
 Open Source Contributions {#open-source}
 --------------------------------------------------------------------------------
 
-All projects available at `github.com/nstrayer/<name>`
+All projects available at `github.com/kloen-svg/`
 
-
-- `shinysense`: R package to use sensor data in Shiny apps
-- `tuftesque`: Hugo theme (behind LiveFreeOrDichotomize.com)
-- `slid3r`: D3 add-on for fully svg slider inputs
 
 
 More info {#more-info}
@@ -118,9 +114,7 @@ Nick Strayer {#title}
 --------------------------------------------------------------------------------
 
 ```{r}
-intro_text <- "I have made [visualizations viewed by hundreds of thousands of people](https://www.nytimes.com/interactive/2016/08/26/us/college-student-migration.html), [sped up query times for 25 terabytes of data by an average of 4,800 times](https://livefreeordichotomize.com/2019/06/04/using_awk_and_r_to_parse_25tb/), and built [packages for R](https://github.com/nstrayer/shinysense) that let you [do magic](http://nickstrayer.me/dataDayTexas/).
-
-Currently searching for a data science position that allows me to build tools using visualization and machine learning to help people explore and understand their data. 
+intro_text <- "Kristina Loen is looking to leverage her education and passion for science and communication to pivot out of the fintech industry. Most of her career has been in high-paced environments with strict regulatory needs while providing high service levels to financial institutions and external clients. As part of her current duties, she regularly communicates technical data to all levels of the business, including SVPs and above, as analysis of major technical incidents and regular reporting on the operations environment. She has always been passionate about science, and completed her four-year degree at ASU. With auto-acceptance into the MS of Program Evaluation and Data Analytics, she wants to continue honing her quantitative reasoning skills and marry those to her existing technical communication expertise. In her free time Kristina enjoys astrophotography, creative writing, learning languages, and has recently taken up knitting again.
 "
 
 
